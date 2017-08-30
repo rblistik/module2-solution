@@ -9,7 +9,7 @@
   </head>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 
-<title>Responsive Layout</title>
+<title>COURSERA PEER GRADED MODULE 2 RL</title>
 <style>
 
 /********** Base styles **********/
