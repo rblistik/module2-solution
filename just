@@ -30,7 +30,11 @@ p {
   font-family: Helvetica;
   color: white;
 }
-
+body{
+font-family: Arial;
+Color: red;
+Align:center;
+}
 
 .row {
   width: 100%;
