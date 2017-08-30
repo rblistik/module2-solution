@@ -31,7 +31,7 @@ p {
   color: white;
 }
 
-/* Simple Responsive Framework. */
+
 .row {
   width: 100%;
 }
