@@ -5,6 +5,15 @@
   border: 2px solid red;
   background-color: blue;
 }
+
+*{
+	box-sizing: border-box;
+	margin: 0px;
+	top: 0px;
+}
+body{
+	background-color: #000000;
+}
 #Chicken{
 	background-color: gray;
 	padding: 18px;
