@@ -23,20 +23,16 @@ h1{
 
 
 p {
-  border: 1px solid black;
+  border: 1px solid red;
   background-color: #A52A2A;
   width: 90%;
   height: 150px;
   margin-right: auto;
   margin-left: auto;
   font-family: Helvetica;
-  color: white;
+  color: blue;
 }
-body{
-font-family: Arial;
-Color: blue;
-Align:center;
-}
+
 
 .row {
   width: 100%;
@@ -87,8 +83,7 @@ Align:center;
   <div class="col-lg-3 col-md-6"><p>MENU SUSHI</p></div>
   <div class="col-lg-3 col-md-6"><p>MENU BEEF</p></div>
 
-<div id="Chicken">
-<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu.</p>
+<div id="Chicken">BBBBYYYYYY</div>
 
 <div id="Chickencont">
 <p> Chicken</p>
