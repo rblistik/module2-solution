@@ -17,10 +17,7 @@
   box-sizing: border-box;
 }
 
-divclass {
-margin-top: 20px;
-align:right;
-}
+
 h1 {
   margin-bottom: 25px;
   align:center;
@@ -87,7 +84,7 @@ Align:center;
 <h1>GLOBAL MENUS</h1>
 
 <div id="Chicken">
-Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+<body>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.</b>
 
 <div id="Chickencont">
 <p> Chicken</p>
