@@ -13,9 +13,6 @@
 <style>
 
 /********** Base styles **********/
-* {
-  box-sizing: border-box;
-}
 
 
 h1 {
