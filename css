@@ -26,7 +26,7 @@ body{
 
  #Chicken p {
 padding-top: 30px;
-font-family: "hw", Lato-Bold;
+font-family: arial;
 
 }
 
@@ -34,7 +34,7 @@ font-family: "hw", Lato-Bold;
 
 margin-top: -23px;
 padding-left: 10px;
-font-family: "hw", Lato-Heavy;
+font-family: arial;
 font-size: 18px;
 
 #Beef{
@@ -50,14 +50,14 @@ font-size: 18px;
 
 #Beef p {
 padding-top: 30px;
-font-family: "hw", Lato-Bold;
+font-family: arial;
 }
 
 #Beefcont p {
 
 margin-top: -23px;
 padding-left: 10px;
-font-family: "hw", Lato-Heavy;
+font-family: arial;
 font-size: 18px;
 
 }
@@ -74,13 +74,13 @@ font-size: 18px;
 
 #Sushi p {
 padding-top: 30px;
-font-family: "hw", Lato-Bold;
+font-family: arial;
 }
 
 #Sushicont p {
 margin-top: -23px;
 padding-left: 10px;
-font-family: "hw", Lato-Heavy;
+font-family: arial;
 font-size: 18px;
 }
 
