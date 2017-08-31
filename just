@@ -86,39 +86,33 @@ Align:center;
 
 <h1>GLOBAL MENUS</h1>
 
-<div class="row">
-  <div class="col-lg-3 col-md-6"><p>MENU CHICKEN</p></div>
-
+<div id="Chicken">
 <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu.</p>
 
 <div id="Chickencont">
-
+<p> Chicken</p>
 </div>
+
 </div>
 
 <div id="Beef">
-<p>https://itunes.apple.com/us/album/preludes-etude-n-12-alexander-scriabin-op-74-op-67-op-17-op-8/id1230769143</p>
+
 <div id="Beefcont">
-
+<p>Beef</p>
 </div>
-
-
+<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu.</p>
+</div>
 
 <div id="Sushi">
-<p>https://itunes.apple.com/us/album/preludes-etude-n-12-alexander-scriabin-op-74-op-67-op-17-op-8/id1230769143</p>
+
 <div id="Sushicont">
-
+<p>Sushi</p>
 </div>
+<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu.</p>
 
-	
-
-</body>
-</html>
-
-
-  
 </div>
 
 
 </body>
 </html>
+
