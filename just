@@ -105,19 +105,19 @@ Align:center;
 </div>
 
 <div id="Beef">
-
-<div id="Beefcont">
-<p>Beef</p>
-</div>
 <p>https://itunes.apple.com/us/album/preludes-etude-n-12-alexander-scriabin-op-74-op-67-op-17-op-8/id1230769143</p>
+<div id="Beefcont">
+
 </div>
+
+
 
 <div id="Sushi">
-
-<div id="Sushicont">
-<p>Sushi</p>
-</div>
 <p>https://itunes.apple.com/us/album/preludes-etude-n-12-alexander-scriabin-op-74-op-67-op-17-op-8/id1230769143</p>
+<div id="Sushicont">
+
+</div>
+
 	
 
 </body>
