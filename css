@@ -28,3 +28,87 @@ padding-left: 10px;
 font-family: "hw", Lato-Heavy;
 font-size: 18px;
 
+#Beef{
+	background-color: gray;
+	padding: 18px;
+	border:1px solid black; 
+	width: 425px;
+	float: left;
+	position: relative;
+	margin: 0px 10px 0px 10px;
+
+}
+
+#Beef p {
+padding-top: 30px;
+font-family: "hw", Lato-Bold;
+}
+
+#Beefcont p {
+
+margin-top: -23px;
+padding-left: 10px;
+font-family: "hw", Lato-Heavy;
+font-size: 18px;
+
+}
+#Sushi{
+	position: relative;
+	background-color: gray;
+	padding: 18px;
+	border:1px solid black;
+	margin: 0px 10px 0px 10px; 
+	width: 425px;
+	float: left;
+	
+}
+
+#Sushi p {
+padding-top: 30px;
+font-family: "hw", Lato-Bold;
+}
+
+#Sushicont p {
+margin-top: -23px;
+padding-left: 10px;
+font-family: "hw", Lato-Heavy;
+font-size: 18px;
+}
+
+#Chickencont{
+	top: 0px;
+	right: 0%;
+	background-color: white;
+	padding: 0px 10px 10px 10px;
+	border:1px solid black;
+	width: 120px;
+	height: 40px;
+	position: absolute;
+	
+}
+
+#Beefcont{
+	top: 0px;
+	right: 0%;
+	background-color: #CD0000;
+	padding: 0px 10px 10px 10px;
+	border:1px solid black;
+	width: 120px;
+	height: 40px;
+	position: absolute;
+	
+	
+}#Sushicont{
+	top: 0px;
+	right: 0%;
+	background-color: #ffff00;
+	padding: 0px 10px 10px 10px;
+	border:1px solid black;
+	width: 120px;
+	height: 40px;
+	position: absolute;
+	
+	
+}
+
+
