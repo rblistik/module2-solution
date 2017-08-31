@@ -13,12 +13,14 @@
 <style>
 
 /********** Base styles **********/
+h1{
+	margin-bottom: 30px;
+	margin-top: 30px;
+	text-align: center;
+	color: white;
+	font-family: arial;
+	letter-spacing: 3px;
 
-
-h1 {
-  margin-bottom: 25px;
-  align:center;
-}
 
 p {
   border: 1px solid black;
