@@ -83,7 +83,11 @@ Align:center;
 
 <div class="row">
   <div class="col-lg-3 col-md-6"><p>MENU ART</p></div>
+  <body>
+https://itunes.apple.com/us/album/preludes-etude-n-12-alexander-scriabin-op-74-op-67-op-17-op-8/id1230769143</b>
   <div class="col-lg-3 col-md-6"><p>MENU CINEMA</p></div>
+  <body>
+https://itunes.apple.com/us/album/preludes-etude-n-12-alexander-scriabin-op-74-op-67-op-17-op-8/id1230769143</b>
   <div class="col-lg-3 col-md-6"><p>MENU MUSIC</p></div>
   <body>
 https://itunes.apple.com/us/album/preludes-etude-n-12-alexander-scriabin-op-74-op-67-op-17-op-8/id1230769143</b>
