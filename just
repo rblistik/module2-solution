@@ -9,7 +9,7 @@
   </head>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 
-<title>COURSERA PEER GRADED MODULE 2 RL</title>
+<title>COURSERA PEER GRADED </title>
 <style>
 
 /********** Base styles **********/
@@ -18,6 +18,7 @@
 }
 h1 {
   margin-bottom: 15px;
+  align:center;
 }
 
 p {
@@ -77,14 +78,15 @@ Align:center;
 
 </style>
 </head>
-<body>
-https://itunes.apple.com/us/album/preludes-etude-n-12-alexander-scriabin-op-74-op-67-op-17-op-8/id1230769143</b>
+
 <h1>GLOBAL MENUS</h1>
 
 <div class="row">
-  <div class="col-lg-3 col-md-6"><p>MENU BRAZIL</p></div>
-  <div class="col-lg-3 col-md-6"><p>MENU ISRAEL</p></div>
-  <div class="col-lg-3 col-md-6"><p>MENU MY MUSIC</p></div>
+  <div class="col-lg-3 col-md-6"><p>MENU ART</p></div>
+  <div class="col-lg-3 col-md-6"><p>MENU CINEMA</p></div>
+  <div class="col-lg-3 col-md-6"><p>MENU MUSIC</p></div>
+  <body>
+https://itunes.apple.com/us/album/preludes-etude-n-12-alexander-scriabin-op-74-op-67-op-17-op-8/id1230769143</b>
   
 </div>
 
