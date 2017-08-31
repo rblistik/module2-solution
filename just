@@ -17,7 +17,7 @@ h1{
 	margin-bottom: 30px;
 	margin-top: 30px;
 	text-align: center;
-	color: white;
+	color: blue;
 	font-family: arial;
 	letter-spacing: 3px;
 
@@ -81,6 +81,11 @@ Align:center;
 </head>
 
 <h1>GLOBAL MENUS</h1>
+
+<div class="row">
+  <div class="col-lg-3 col-md-6"><p>MENU CHICKEN</p></div>
+  <div class="col-lg-3 col-md-6"><p>MENU SUSHI</p></div>
+  <div class="col-lg-3 col-md-6"><p>MENU BEEF</p></div>
 
 <div id="Chicken">
 <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu.</p>
