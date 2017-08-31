@@ -5,3 +5,26 @@
   border: 2px solid red;
   background-color: gray;
 }
+#Chicken{
+	background-color: gray;
+	padding: 18px;
+	border:1px solid black;
+	margin: 0px 15px 0px 10px;
+	width: 425px;
+	float: left;
+	position: relative;
+}
+
+ #Chicken p {
+padding-top: 30px;
+font-family: "hw", Lato-Bold;
+
+}
+
+#Chickencont p {
+
+margin-top: -23px;
+padding-left: 10px;
+font-family: "hw", Lato-Heavy;
+font-size: 18px;
+
