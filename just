@@ -87,15 +87,15 @@ Align:center;
 <h1>GLOBAL MENUS</h1>
 
 <div class="row">
-  <div class="col-lg-3 col-md-6"><p>MENU ART</p></div>
+  <div class="col-lg-3 col-md-6"><p>MENU CHICKEN</p></div>
   
-<body>https://itunes.apple.com/us/album/preludes-etude-n-12-alexander-scriabin-op-74-op-67-op-17-op-8/id1230769143</b>
-  <div class="col-lg-3 col-md-6"><p>MENU CINEMA</p></div>
+<p>https://itunes.apple.com/us/album/preludes-etude-n-12-alexander-scriabin-op-74-op-67-op-17-op-8/id1230769143</p>
+  <div class="col-lg-3 col-md-6"><p>MENU BEEF</p></div>
   
-<body>https://itunes.apple.com/us/album/preludes-etude-n-12-alexander-scriabin-op-74-op-67-op-17-op-8/id1230769143</b>
-  <div class="col-lg-3 col-md-6"><p>MENU MUSIC</p></div>
+<p>https://itunes.apple.com/us/album/preludes-etude-n-12-alexander-scriabin-op-74-op-67-op-17-op-8/id1230769143</p>
+  <div class="col-lg-3 col-md-6"><p>MENU SUSHI</p></div>
   
-<body>https://itunes.apple.com/us/album/preludes-etude-n-12-alexander-scriabin-op-74-op-67-op-17-op-8/id1230769143</b>
+<p>https://itunes.apple.com/us/album/preludes-etude-n-12-alexander-scriabin-op-74-op-67-op-17-op-8/id1230769143</p>
   
 </div>
 
