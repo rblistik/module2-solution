@@ -97,10 +97,10 @@ Align:center;
 </head>
 <body>
 
-<h1> Our Menu</h1>
+<h1>Our Menu</h1>
 
 <div id="Chicken">
-	<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu.</p>
+	<p>https://itunes.apple.com/us/album/preludes-etude-n-12-alexander-scriabin-op-74-op-67-op-17-op-8/id1230769143</p>
 
 <div id="Chickencont">
 <p> Chicken</p>
@@ -113,7 +113,7 @@ Align:center;
 <div id="Beefcont">
 <p>Beef</p>
 </div>
-<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu.</p>
+<p>https://itunes.apple.com/us/album/preludes-etude-n-12-alexander-scriabin-op-74-op-67-op-17-op-8/id1230769143</p>
 </div>
 
 <div id="Sushi">
@@ -121,21 +121,13 @@ Align:center;
 <div id="Sushicont">
 <p>Sushi</p>
 </div>
-<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu.</p>
-
-</div>
+<p>https://itunes.apple.com/us/album/preludes-etude-n-12-alexander-scriabin-op-74-op-67-op-17-op-8/id1230769143</p>
 	
 
 </body>
 </html>
 
-https://itunes.apple.com/us/album/preludes-etude-n-12-alexander-scriabin-op-74-op-67-op-17-op-8/id1230769143
-  <div class="col-lg-3 col-md-6"><p>MENU BEEF</p></div>
-  
-https://itunes.apple.com/us/album/preludes-etude-n-12-alexander-scriabin-op-74-op-67-op-17-op-8/id1230769143
-  <div class="col-lg-3 col-md-6"><p>MENU SUSHI</p></div>
-  
-https://itunes.apple.com/us/album/preludes-etude-n-12-alexander-scriabin-op-74-op-67-op-17-op-8/id1230769143
+
   
 </div>
 
