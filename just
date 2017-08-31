@@ -86,22 +86,14 @@ Align:center;
 
 <h1>GLOBAL MENUS</h1>
 
-
-  <!DOCTYPE html>
-<html>
-<head>
-<meta charset="utf-8">
-	<title>MENU</title>
-	<link rel="stylesheet" href="css/styles.css">
-</head>
-<body>
 <div class="row">
   <div class="col-lg-3 col-md-6"><p>MENU CHICKEN</p></div>
 <div id="Chicken">
 <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu.</p>
 
 <div id="Chickencont">
-
+<p> Chicken</p>
+</div>
 </div>
 
 <div id="Beef">
