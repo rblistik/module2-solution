@@ -16,6 +16,11 @@
 * {
   box-sizing: border-box;
 }
+
+divclass {
+margin-top: 20px;
+align:right;
+}
 h1 {
   margin-bottom: 15px;
   align:center;
@@ -82,15 +87,15 @@ Align:center;
 <h1>GLOBAL MENUS</h1>
 
 <div class="row">
-  <div class="col-lg-3 col-md-6"><p>MENU ART</p></div>
-  <body>
-https://itunes.apple.com/us/album/preludes-etude-n-12-alexander-scriabin-op-74-op-67-op-17-op-8/id1230769143</b>
-  <div class="col-lg-3 col-md-6"><p>MENU CINEMA</p></div>
-  <body>
-https://itunes.apple.com/us/album/preludes-etude-n-12-alexander-scriabin-op-74-op-67-op-17-op-8/id1230769143</b>
-  <div class="col-lg-3 col-md-6"><p>MENU MUSIC</p></div>
-  <body>
-https://itunes.apple.com/us/album/preludes-etude-n-12-alexander-scriabin-op-74-op-67-op-17-op-8/id1230769143</b>
+  <div class="col-lg-3 col-md-6"><p>MENU ART
+  
+https://itunes.apple.com/us/album/preludes-etude-n-12-alexander-scriabin-op-74-op-67-op-17-op-8/id1230769143</p></div>
+  <div class="col-lg-3 col-md-6"><p>MENU CINEMA
+  
+https://itunes.apple.com/us/album/preludes-etude-n-12-alexander-scriabin-op-74-op-67-op-17-op-8/id1230769143</p></div>
+  <div class="col-lg-3 col-md-6"><p>MENU MUSIC
+  
+https://itunes.apple.com/us/album/preludes-etude-n-12-alexander-scriabin-op-74-op-67-op-17-op-8/id1230769143</p></div>
   
 </div>
 
