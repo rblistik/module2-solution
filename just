@@ -83,30 +83,8 @@ p {
   <div class="col-lg-3 col-md-6"><p>MENU SUSHI    bubububrrraaakkakakakakakak</p></div>
   <div class="col-lg-3 col-md-6"><p>MENU BEEF     mumumumrrarararakokokok</p></div>
 
-
-
-<div id="Chickencont">
-<p> Chicken</p>
 </div>
-
-</div>
-
-<div id="Beef">
-
-<div id="Beefcont">
-<p>Beef</p>
-</div>
-
-</div>
-
-<div id="Sushi">
-
-<div id="Sushicont">
-<p>Sushi</p>
-</div>
-
-</div>
-
 
 </body>
 </html>
+
