@@ -79,11 +79,11 @@ p {
 <h1>GLOBAL MENUS</h1>
 
 <div class="row">
-  <div class="col-lg-3 col-md-6"><p>MENU CHICKEN</p></div>
-  <div class="col-lg-3 col-md-6"><p>MENU SUSHI</p></div>
-  <div class="col-lg-3 col-md-6"><p>MENU BEEF</p></div>
+  <div class="col-lg-3 col-md-6"><p>MENU CHICKEN   bbvvyvyvyvybbbubububuuiuiui</p></div>
+  <div class="col-lg-3 col-md-6"><p>MENU SUSHI    bubububrrraaakkakakakakakak</p></div>
+  <div class="col-lg-3 col-md-6"><p>MENU BEEF     mumumumrrarararakokokok</p></div>
 
-<div id="Chicken">BBBBYYYYYY</div>
+
 
 <div id="Chickencont">
 <p> Chicken</p>
