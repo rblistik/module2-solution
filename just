@@ -13,6 +13,11 @@
 <style>
 
 /********** Base styles **********/
+
+* {
+  box-sizing: border-box;
+  }
+
 h1{
 	margin-bottom: 30px;
 	margin-top: 30px;
@@ -20,6 +25,7 @@ h1{
 	color: blue;
 	font-family: arial;
 	letter-spacing: 3px;
+	}
 
 
 p {
