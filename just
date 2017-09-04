@@ -48,7 +48,7 @@ p {
 	display: inline-block;
 }
 .sectionTitle{
-	background-color: pink;
+	background-color: blue;
 	font-size: 125%;
 	font-weight: bold;
 	border-left: 1px solid black;
@@ -108,19 +108,19 @@ p {
 
 <h1>GLOBAL MENUS</h1>
 
-<section class="section section-lg-3 section-md-6 section-xs-12">
-	<div class="sectionTitle">MENU CHICKEN</div>
+<section class="section section-lg-3 section-md-6 ">
+	<div class="sectionTitle sectionTitle">MENU CHICKEN</div>
 	<div><p class="contentText">VBVBVBVBVBVBV </p></div>
 	</section>
 	
 	
-	<section class="section section-lg-3 section-md-6 section-xs-12">
+	<section class="section section-lg-3 section-md-6 ">
 	<div class="sectionTitle sectionTitle1">MENU BEEF</div>
 	<div><p class="contentText">YES WE CAN  YES WE SHOULD YES WE MUST </p></div>
 	</section>
 	
 	
-	<section class="section section-lg-3 section-md-12 section-xs-12">
+	<section class="section section-lg-3 section-md-12 ">
 	<div class="sectionTitle sectionTitle2">MENU SUSHI</div>
 	<div><p class="contentText">NOPPOWNOPOWNOPOW</p></div>
 	</section>
