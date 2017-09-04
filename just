@@ -85,20 +85,23 @@ p {
 <h1>GLOBAL MENUS</h1>
 
 <section class="section section-lg-3 section-md-6 section-xs-12">
-	<div class="sectionTitle">MENU CHICKEN</div>
-	<div><p class="contentText">bbvvyvyvyvybbbubububuuiuiui</p></div>
-  	</section>
-  
-  
-  <div class="col-lg-3 col-md-6"><p>MENU SUSHI</div> 
-  <body="contentText">bubububrrraaakkakakakakakak</b></div>
-  
-  
-  <div class="col-lg-3 col-md-6"><p>MENU BEEF</div>
-  <body="contentText">bubububrrraaakkakakakakakak</b></div>
+	<div class="sectionTitle">Chicken</div>
+	<div><p class="contentText">Dummy text Dummy text Dummy text Dummy text Dummy text Dummy text Dummy text Dummy text Dummy text Dummy text Dummy text Dummy text Dummy text Dummy text Dummy text Dummy text Dummy text Dummy text Dummy text Dummy text Dummy text Dummy text Dummy text Dummy text Dummy text </p></div>
+	</section>
+	
+	
+	<section class="section section-lg-3 section-md-6 section-xs-12">
+	<div class="sectionTitle sectionTitle1">Chicken</div>
+	<div><p class="contentText">Dummy text Dummy text Dummy text Dummy text Dummy text Dummy text Dummy text Dummy text Dummy text Dummy text Dummy text Dummy text Dummy text Dummy text Dummy text Dummy text Dummy text Dummy text Dummy text Dummy text Dummy text Dummy text Dummy text Dummy text Dummy text </p></div>
+	</section>
+	
+	
+	<section class="section section-lg-3 section-md-12 section-xs-12">
+	<div class="sectionTitle sectionTitle2">Chicken</div>
+	<div><p class="contentText">Dummy text Dummy text Dummy text Dummy text Dummy text Dummy text Dummy text Dummy text Dummy text Dummy text Dummy text Dummy text Dummy text Dummy text Dummy text Dummy text Dummy text Dummy text Dummy text Dummy text Dummy text Dummy text Dummy text Dummy text Dummy text </p></div>
+	</section>
+	
+	</body>
+	</html>
 
-</div>
-
-</body>
-</html>
 
