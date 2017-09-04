@@ -39,7 +39,31 @@ p {
   color: blue;
 }
 
+.section{
+	background-color: grey;
+	border: 2px solid black;
+	margin-left: 10px;
+	margin-right: 10px;
+	margin-bottom: 15px;
+	display: inline-block;
+}
+.sectionTitle{
+	background-color: pink;
+	font-size: 125%;
+	font-weight: bold;
+	border-left: 1px solid black;
+	border-bottom: 1px solid black;
+	position: relative;
+	float: right;
+	padding-left: 10px;
+	padding-right: 10px;
+	padding-top: 5px;
+	padding-bottom: 5px;
+}
 
+.sectionTitle1{
+	background-color: yellow;
+}
 .row {
   width: 100%;
 }
