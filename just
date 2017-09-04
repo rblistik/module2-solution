@@ -43,8 +43,8 @@ p {
 	background-color: grey;
 	border: 2px solid black;
 	margin-left: 10px;
-	margin-right: 10px;
-	margin-bottom: 15px;
+	margin-right: auto;
+	margin-bottom: auto;
 	
 }
 .sectionTitle{
