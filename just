@@ -86,19 +86,19 @@ p {
 
 <section class="section section-lg-3 section-md-6 section-xs-12">
 	<div class="sectionTitle">MENU CHICKEN</div>
-	<div><p class="contentText">Dummy text Dummy text Dummy text Dummy text Dummy text Dummy text Dummy text Dummy text Dummy text Dummy text Dummy text Dummy text Dummy text Dummy text Dummy text Dummy text Dummy text Dummy text Dummy text Dummy text Dummy text Dummy text Dummy text Dummy text Dummy text </p></div>
+	<div><p class="contentText">VBVBVBVBVBVBV </p></div>
 	</section>
 	
 	
 	<section class="section section-lg-3 section-md-6 section-xs-12">
 	<div class="sectionTitle sectionTitle1">MENU BEEF</div>
-	<div><p class="contentText">Dummy text Dummy text Dummy text Dummy text Dummy text Dummy text Dummy text Dummy text Dummy text Dummy text Dummy text Dummy text Dummy text Dummy text Dummy text Dummy text Dummy text Dummy text Dummy text Dummy text Dummy text Dummy text Dummy text Dummy text Dummy text </p></div>
+	<div><p class="contentText">YES WE CAN  YES WE SHOULD YES WE MUST </p></div>
 	</section>
 	
 	
 	<section class="section section-lg-3 section-md-12 section-xs-12">
 	<div class="sectionTitle sectionTitle2">MENU SUSHI</div>
-	<div><p class="contentText">Dummy text Dummy text Dummy text Dummy text Dummy text Dummy text Dummy text Dummy text Dummy text Dummy text Dummy text Dummy text Dummy text Dummy text Dummy text Dummy text Dummy text Dummy text Dummy text Dummy text Dummy text Dummy text Dummy text Dummy text Dummy text </p></div>
+	<div><p class="contentText">NOPPOWNOPOWNOPOW</p></div>
 	</section>
 	
 	</body>
