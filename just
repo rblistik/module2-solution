@@ -86,16 +86,16 @@ p {
 
 
   
-  <div class="col-lg-3 col-md-6"> MENU CHICKEN</div>
-  <div><p class="contentText"> bbvvyvyvyvybbbubububuuiuiui</p></div>
+  <div class="col-lg-3 col-md-6"><p>MENU CHICKEN</div>
+  <body ="contentText"> bbvvyvyvyvybbbubububuuiuiui</b></div>
    
   
   <div class="col-lg-3 col-md-6"><p>MENU SUSHI</div> 
-  <div><p class="contentText">bubububrrraaakkakakakakakak</p></div>
+  <body="contentText">bubububrrraaakkakakakakakak</b></div>
   
   
   <div class="col-lg-3 col-md-6"><p>MENU BEEF</div>
-  <div><p class="contentText">bubububrrraaakkakakakakakak</p></div>
+  <body="contentText">bubububrrraaakkakakakakakak</b></div>
 
 </div>
 
