@@ -90,10 +90,13 @@ p {
   <div><p class="contentText"> bbvvyvyvyvybbbubububuuiuiui</p></div>
   </section>
   
-  <div class="col-lg-3 col-md-6"><p>MENU SUSHI    bubububrrraaakkakakakakakak</p></div>
+  <section class="section section-lg-3 section-md-6 section-xs-12">
+  <div class="col-lg-3 col-md-6"><p>MENU SUSHI</div> 
+  <div><p class="contentText">bubububrrraaakkakakakakakak</p></div>
   
-  
-  <div class="col-lg-3 col-md-6"><p>MENU BEEF     mumumumrrarararakokokok</p></div>
+  <section class="section section-lg-3 section-md-6 section-xs-12">
+  <div class="col-lg-3 col-md-6"><p>MENU BEEF</div>
+  <div><p class="contentText">bubububrrraaakkakakakakakak</p></div>mumumumrrarararakokokok</p></div>
 
 </div>
 
