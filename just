@@ -85,18 +85,17 @@ p {
 <h1>GLOBAL MENUS</h1>
 
 
-  <section class="section section-lg-3 section-md-6 section-xs-12">
-  <div class="sectionTitle"> MENU CHICKEN</div>
-  <div><p class="contentText"> bbvvyvyvyvybbbubububuuiuiui</p></div>
-  </section>
   
-  <section class="section section-lg-3 section-md-6 section-xs-12">
+  <div class="col-lg-3 col-md-6"> MENU CHICKEN</div>
+  <div><p class="contentText"> bbvvyvyvyvybbbubububuuiuiui</p></div>
+   
+  
   <div class="col-lg-3 col-md-6"><p>MENU SUSHI</div> 
   <div><p class="contentText">bubububrrraaakkakakakakakak</p></div>
   
-  <section class="section section-lg-3 section-md-6 section-xs-12">
+  
   <div class="col-lg-3 col-md-6"><p>MENU BEEF</div>
-  <div><p class="contentText">bubububrrraaakkakakakakakak</p></div>mumumumrrarararakokokok</p></div>
+  <div><p class="contentText">bubububrrraaakkakakakakakak</p></div>
 
 </div>
 
