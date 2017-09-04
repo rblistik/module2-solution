@@ -85,19 +85,19 @@ p {
 <h1>GLOBAL MENUS</h1>
 
 <section class="section section-lg-3 section-md-6 section-xs-12">
-	<div class="sectionTitle">Chicken</div>
+	<div class="sectionTitle">MENU CHICKEN</div>
 	<div><p class="contentText">Dummy text Dummy text Dummy text Dummy text Dummy text Dummy text Dummy text Dummy text Dummy text Dummy text Dummy text Dummy text Dummy text Dummy text Dummy text Dummy text Dummy text Dummy text Dummy text Dummy text Dummy text Dummy text Dummy text Dummy text Dummy text </p></div>
 	</section>
 	
 	
 	<section class="section section-lg-3 section-md-6 section-xs-12">
-	<div class="sectionTitle sectionTitle1">Chicken</div>
+	<div class="sectionTitle sectionTitle1">MENU BEEF</div>
 	<div><p class="contentText">Dummy text Dummy text Dummy text Dummy text Dummy text Dummy text Dummy text Dummy text Dummy text Dummy text Dummy text Dummy text Dummy text Dummy text Dummy text Dummy text Dummy text Dummy text Dummy text Dummy text Dummy text Dummy text Dummy text Dummy text Dummy text </p></div>
 	</section>
 	
 	
 	<section class="section section-lg-3 section-md-12 section-xs-12">
-	<div class="sectionTitle sectionTitle2">Chicken</div>
+	<div class="sectionTitle sectionTitle2">MENU SUSHI</div>
 	<div><p class="contentText">Dummy text Dummy text Dummy text Dummy text Dummy text Dummy text Dummy text Dummy text Dummy text Dummy text Dummy text Dummy text Dummy text Dummy text Dummy text Dummy text Dummy text Dummy text Dummy text Dummy text Dummy text Dummy text Dummy text Dummy text Dummy text </p></div>
 	</section>
 	
