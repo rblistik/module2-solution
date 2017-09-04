@@ -84,7 +84,7 @@ p {
 
 <h1>GLOBAL MENUS</h1>
 
-<div class="row">
+
   <section class="section section-lg-3 section-md-6 section-xs-12">
   <div class="sectionTitle"> MENU CHICKEN</div>
   <div><p class="contentText"> bbvvyvyvyvybbbubububuuiuiui</p></div>
