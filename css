@@ -10,7 +10,14 @@
   box-sizing: border-box;
 }
 
-
+h1{
+	margin-bottom: 30px;
+	margin-top: 30px;
+	text-align: center;
+	color: blue;
+	font-family: arial;
+	letter-spacing: 3px;
+	}
 .contentText{
 	clear: both;
 	padding: 15px;
