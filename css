@@ -1,3 +1,8 @@
+{
+  box-sizing: border-box;
+}
+
+
 .row {
   margin-bottom: 15px;
 }
@@ -6,13 +11,40 @@
   background-color: blue;
 }
 
-* {
-  box-sizing: border-box;
-}
-
 
 .contentText{
 	clear: both;
 	padding: 15px;
+}
+
+/********** Large devices only **********/
+@media (min-width: 992px) {
+  .section-lg-3 {
+    width: 30%;
+  }
+  
+}
+
+
+/********** Medium devices only **********/
+@media (min-width: 768px) and (max-width: 991px) {
+  .section-md-6 {
+    width: 47%;
+  }
+  .section-md-12 {
+  	width: 96.5%;
+  }
+  }
+
+
+/********** Small devices only **********/
+@media (max-width: 767px){
+.section-xs-12 {
+    width: 100%;
+    margin-left: 0px;
+    margin-right: 0px;
+  }
+}
+  
 
 
